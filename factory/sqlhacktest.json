@@ -1,0 +1,9 @@
+{
+	"name": "sqlhacktest",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6b5751c2-dd64-4278-8982-2636f22e1672",
+		"tenantId": "d78f7362-832c-4715-8e12-cc7bd574144c"
+	}
+}
