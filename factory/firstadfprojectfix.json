@@ -1,0 +1,9 @@
+{
+	"name": "firstadfprojectfix",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "583ddc4c-e471-43db-9521-45d737795eb9",
+		"tenantId": "b4210cfa-b7d4-4c43-a71b-79aead161ad1"
+	}
+}
